@@ -2,8 +2,6 @@
 
 I'm a FE engineer.
 
-I'm currently working on xiaomi.
-
 Now i'm learning react.let's go with me~
 
 
