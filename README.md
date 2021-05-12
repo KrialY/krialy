@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm krialy~👨‍💻
+i'm krialy, a FE engineer~👨‍💻
 
 Now i'm learning react.let's go with me~
 
