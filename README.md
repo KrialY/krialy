@@ -3,9 +3,7 @@
 
 Now i'm learning react.let's go with me~
 
-别人的提交的代码
-我的修改
-我的修改
+
 
 
 
